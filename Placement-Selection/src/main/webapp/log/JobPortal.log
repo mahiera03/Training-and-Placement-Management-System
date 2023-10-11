@@ -1,0 +1,38 @@
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:476 - Successfully destroyed PooledConnection: com.mchange.v2.c3p0.impl.NewPooledConnection@3d2298
+2021-04-06 20:43:10 DEBUG BasicResourcePool:967 - Successfully destroyed resource: com.mchange.v2.c3p0.impl.NewPooledConnection@3d2298
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 1, unused: 1, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 9
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 2, unused: 2, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 8
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 3, unused: 3, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 7
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 4, unused: 4, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 6
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 5, unused: 5, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 5
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 6, unused: 6, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 4
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 7, unused: 7, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 3
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 8, unused: 8, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 2
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 9, unused: 9, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 1
+2021-04-06 20:43:10 DEBUG C3P0PooledConnectionPool:217 - com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager@1abfbe6.acquireResource() returning. 
+2021-04-06 20:43:10 DEBUG BasicResourcePool:1644 - trace com.mchange.v2.resourcepool.BasicResourcePool@db7da [managed: 10, unused: 10, excluded: 0] (e.g. com.mchange.v2.c3p0.impl.NewPooledConnection@cfa6e7)
+2021-04-06 20:43:10 DEBUG BasicResourcePool:422 - decremented pending_acquires: 0
+2021-04-06 20:43:12 DEBUG BasicResourcePool:1935 - Checking for expired resources - Tue Apr 06 20:43:12 IST 2021 [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
+2021-04-06 20:43:12 DEBUG BasicResourcePool:1447 - BEGIN check for expired resources.  [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
+2021-04-06 20:43:12 DEBUG BasicResourcePool:1468 - FINISHED check for expired resources.  [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
+2021-04-06 20:43:15 DEBUG BasicResourcePool:1935 - Checking for expired resources - Tue Apr 06 20:43:15 IST 2021 [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
+2021-04-06 20:43:15 DEBUG BasicResourcePool:1447 - BEGIN check for expired resources.  [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
+2021-04-06 20:43:15 DEBUG BasicResourcePool:1468 - FINISHED check for expired resources.  [com.mchange.v2.resourcepool.BasicResourcePool@db7da]
